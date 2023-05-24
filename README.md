@@ -19,7 +19,7 @@ _Get started using GitHub in less than an hour._
   Do not use quotes on the <details> tag attributes.
 -->
 
-<details id=0 open>
+<details id=0>
 <summary><h2>Welcome</h2></summary>
 
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
@@ -246,7 +246,7 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations, you've completed this course and joined the world of developers!_
